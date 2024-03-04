@@ -1,0 +1,153 @@
+/*-----Bài 1------*/
+.bai1{
+    text-align: center;
+    margin: auto;
+    padding-top: 50px;
+    line-height: 20px;
+}
+.bai1 img{
+    width: 100px;
+}
+.bai1 h3{
+    font-size: 40px;
+}
+.bai1 span{
+    color: blue;
+}
+.bai1 div{
+    display: flex;
+    justify-content: center;
+}
+.bai1 button{
+    background: rgb(112, 111, 111);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 600;
+    border-radius: 5px;
+    border: none;
+    margin: 20px;
+}
+.bai1 .img_btn{
+    width: 50px;
+}
+/*-----Bài 2------*/
+.bai2{
+    text-align: center;
+}
+.bai2 button{
+    margin: 15px;
+    background: green;
+    color: #fff;
+    border: none;
+    padding: 7px;
+    border-radius: 5px;
+    font-weight: 500;
+}
+/*-----Bài 3------*/
+.bai3{
+    width: 800px;
+    margin: auto;
+}
+.bai3 h2{
+    font-size: 40px;
+}
+.bai3 h4{
+    font-size: 25px;
+}
+.bai3 p{
+    color: #8b8989;
+}
+.bai3 ul{
+    list-style: none;
+    color: #656565;
+}
+.bai3 button{
+    background: rgb(18, 168, 218);
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+}
+/*-----Bài 4------*/
+.bai4{
+    width: 600px;
+    background: #e3e1e1;
+    margin: 30px auto;
+    padding: 30px;
+}
+.bai4 img{
+width: 50px;
+}
+.bai4 div{
+    text-align: center;
+}
+.bai4 input{
+    width: 45%;
+    padding: 8px;
+    border: none;
+}
+.bai4 button{
+    background: blue;
+    border-radius: 3px;
+    border: none;
+    margin-top: 10px;
+    color: #fff;
+    padding: 10px 20px;
+    text-transform: uppercase;
+}
+/*-----Bài 5------*/
+
+.content {
+    margin-top: 100px;
+    text-align: center;
+    height: 450px;
+    width: 100%;
+    background-image:url(caphe.jpg) ;
+    background-size: cover;
+    
+    color: #fff;
+}
+.text{
+    position: absolute;
+    left: 25%;
+    top: 35%;
+}
+.content h1 {
+    text-transform: uppercase;
+}
+.content button{
+    text-transform: uppercase;
+    background: orangered;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    padding: 10px 15px;
+}
+/*-----Bài 6------*/
+.bai6 {
+    margin-top: 100px;
+    text-align: center;
+    height: 450px;
+    width: 100%;
+    background-image:url(b6.jpg) ;
+    background-size: cover;
+    font-size: 40px;
+}
+.bai6 table{
+    position: absolute;
+    left: 12%;
+    top: 30%;
+}
+.bai6 table td{
+    padding :20px 50px;
+}
+.bai6 .center{
+    color: #fff;
+    width: 100px;
+}
+.bai6 .bottom{
+    color: yellow;
+    font-size: 25px;
+}
